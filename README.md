@@ -1,5 +1,53 @@
 ### Hi there 👋
 
+# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+
+"""
+<img src="https://raw.githubusercontent.com/<OWNER>/<OWNER>/master/<GIF_NAME>.gif" width="30px">
+"""
+
+[![Header](https://raw.githubusercontent.com/MartinHeinz/<OWNER>/<OWNER>/readme_header.png "Header")](https://some-url.dev/)
+
+
+[![JPGianatiempo's GitHub stats](https://github-readme-stats.vercel.app/api?username=jpgianatiempo&hide=contribs,prs&show_icons=true&theme=dark)](https://github.com/jpgianatiempo/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jpgianatiempo&theme=dark&langs_count=5)](https://github.com/jpgianatiempo/github-readme-stats)
+
+
+
+#emojis de https://emojipedia.org/bar-chart/
+
+## 📊 Github Stats
+---
+<a href="https://github.com/jpgianatiempo/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jpgianatiempo&hide=contribs,prs&show_icons=true&theme=dark" />
+</a>
+<a href="https://github.com/jpgianatiempo/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpgianatiempo&theme=dark&langs_count=5" />
+</a>
+
+## Technologies & Tools
+
+![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+
+![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
+
+
+# Contacto
+
+<!-- Actual text -->
+
+You can find me on [![Twitter][1.2]][1], on [![Gmail][3.2]][3], or on [![LinkedIn][2.2]][2].
+📧
+<!-- Icons -->
+
+[1.2]: img/twt.png (jpgianatiempo Twitter account)
+[2.2]: img/linkedin.png (jpgianatiempo Linkedin account)
+
+<!-- Links to your social media accounts -->
+
+[1]: https://twitter.com/jpgianatiempo
+[2]: https://www.linkedin.com/in/jpgianatiempo/
 <!--
 **jpgianatiempo/jpgianatiempo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -5,7 +5,7 @@
 I'm a 28-year-old Economist and Data Science from the Argentina, who loves open source. I´m currently working at the Buenos Aires Grain Exchange as a grain market analyst. So mostly of my Github its realeted  to agricultural markets.
 
 
-## What I do
+## ✏️ What I do
 I mainly code in Python and R, but I am always learning. I like challenges that offer me the opportunity to progress, learn and expand my social and technical skills.
 
 I am really passionate about doing Data Science, it is in my opinion the best combination of analysis and beautiful design. Also, it helps to expand the creativity to solve problems.

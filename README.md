@@ -22,7 +22,7 @@ I am really passionate about doing Data Science, it is in my opinion the best co
 * Make projections 📈
 * Optimize Processes 🚀
 * Cards games such as Magic: The Gathering 🃏
-* Crypto Trading 💰
+* Crypto & DeFi ❤️
 * Football ⚽
 * Extreme Sports 🎿🚵‍♂️🏊‍♂️🏄‍♂️🏂
 

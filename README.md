@@ -2,7 +2,7 @@
 # Hi there! I´m Juan Pablo Gianatiempo<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 ## 📖 About me
-I'm a 28-year-old Economist and Data Scientist from the Argentina, who loves open source. I´m currently working at Kynetec as data analyst and previously at the Buenos Aires Grain Exchange. So mostly of my Github its realeted to agricultural markets.
+I'm a 30-year-old Economist and Data Scientist from the Argentina, who loves open source. I´m currently working at Kynetec as senior data analyst and previously at the Buenos Aires Grain Exchange. So mostly of my Github its realeted to agricultural markets.
 
 
 ## ✏️ What I do
@@ -18,6 +18,7 @@ I am really passionate about doing Data Science, it is in my opinion the best co
 
 * DataViz ✨
 * EDA 📊
+* Agriculture 🌽
 * Machine Learning 🤖
 * Make projections 📈
 * Optimize Processes 🚀
